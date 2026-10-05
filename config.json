@@ -40,10 +40,10 @@
 	"timeZone": "Asia/Dhaka",
 	"credentials": {
 		"gmailAccount": {
-			"email": "noxentoriginal@gmail.com",
-			"clientId": "64538323332-krllpnt039qlsmlh9pelrdfu6h6p7vdt.apps.googleusercontent.com",
-			"clientSecret": "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",
-			"refreshToken": "1//04oGjCNsG-26WCgYIARAAGAQSNwF-L9IrdlVzt-xgr8JLWkRC9egqS4xpo_UNzvbxSeTLjXcg8vBR0Dp6m1TXPBGsARTplUeiWYU",
+			"email": "",
+			"clientId": "",
+			"clientSecret": "",
+			"refreshToken": "",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
